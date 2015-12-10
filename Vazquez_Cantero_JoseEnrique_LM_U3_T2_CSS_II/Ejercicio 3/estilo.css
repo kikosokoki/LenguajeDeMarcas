@@ -1,0 +1,72 @@
+/* === IMPORTANTE ===================================================
+   No modificar estos estilos, ya que son imprescindibles para
+   que la página se vea correctamente.
+   ================================================================== */
+
+/*-- Básico ----------------------------------------------------------*/
+ul, ul li { margin: 0; padding: 0; list-style: none; }
+h1, h2, h3, p, form { margin: 0; padding: 0; }
+.clear { clear: both; }
+img { border: none; }
+
+/*-- Layout ----------------------------------------------------------*/
+#contenedor {
+  width: 90%;
+  max-width: 900px;
+  width: expression(document.body.clientWidth > 901? "900px": "auto");
+  margin: 0 auto;
+}
+
+#cabecera, #menu, #lateral, #contenido, #contenido #principal, #contenido #secundario, #pie {
+  border: 2px solid #777;
+}
+
+#cabecera { clear: both;
+    padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+#menu { clear: both; 
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    margin-bottom: 0.5em;
+}
+#lateral { float: left; width: 15%; 
+    padding: 0.5em 0.5em 0.5em 0.5em;}
+#contenido { float: right; width: 80%;}
+#contenido #principal { float: left; width: 68%; 
+padding: 0.5em 0.5em 0.5em; }
+
+#contenido #secundario { float: right; width: 21%;
+padding: 0.5em 0.5em 0.5em;}
+#pie { clear: both; 
+padding-top: 0.5em;
+padding-bottom: 0.5em;}
+
+#publicidad {margin-top: 1em;}
+
+/*-- Cabecera --------------------------------------------------------*/
+#cabecera #logo { float: left; }
+#cabecera #buscador { float: right; }
+
+/*-- Menu ------------------------------------------------------------*/
+#menu ul#menu_principal li { display: inline; float: left; }
+
+/*-- Sección Principal -----------------------------------------------*/
+#contenido #principal .articulo img { width: 100px; float: left;
+                                    hr: 1em 1em 1em 1em;  }
+img {margin: 0.5em;}
+
+/*-- Pie de página ---------------------------------------------------*/
+#pie .enlaces   { float: left;
+                margin-top: 1em;}
+#pie .copyright { float: right;
+                   margin-top: 1em;}
+
+/* === IMPORTANTE ===================================================
+   A partir de aquí, se pueden añadir todos los estilos propios que 
+   sean necesarios.
+   ================================================================== */

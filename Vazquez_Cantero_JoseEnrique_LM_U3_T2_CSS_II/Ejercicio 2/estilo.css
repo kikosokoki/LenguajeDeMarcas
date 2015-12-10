@@ -1,0 +1,56 @@
+h1#titulo{ color: #008484;
+}
+  
+strong{ color: #FF0000; 
+}
+
+table{border: solid 1px;
+    text-align: center;
+}
+
+span.destacado{ color: #FF8000;
+}
+
+h2#subtitulo { color: #0040FF;
+}
+ 
+span.especial { color: #6A0888;
+}
+
+#table {  border-collapse: collapse; 
+}
+#table, td, th {
+    border: 1px solid black;
+}
+
+a { color: #FF0000;
+}
+
+a em { color: #0040FF; 
+}
+
+ 
+div#adicional p { color: #01DF01;
+}
+
+div#adicional span#especial { color: #FF00BF;
+}
+
+div#adicional a { color: #088A08; 
+}
+
+ 
+caption { color: #0040FF; 
+}
+
+td { color: #088A08;
+}
+
+td strong { color: #FF8000; 
+}
+
+th { color: #FF0000; 
+}
+
+th.especial { color: #FF8000;
+}

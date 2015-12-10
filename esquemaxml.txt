@@ -1,0 +1,231 @@
+<directorios rdfa="true" rdfa-class="http://www.geonames.org/ontology#Feature">
+<directorio rdfa-id="http://www.gijon.es/directorios/show/1097-parque-fluvial-del-piles-area-recreativa-la-carbayera" tipo="Areas Recreativas,Parques y Jardines">
+<url>
+http://www.gijon.es/directorios/show/1097-parque-fluvial-del-piles-area-recreativa-la-carbayera
+</url>
+<identificador>1097</identificador>
+<locale>es</locale>
+<send>fecha-actualizacion2014-01-22 12:02:49 +0100</send>
+<foto rdfa-property="http://purl.org/dc/terms/relation">
+http://www.gijon.es/data/images/f6/6871/400x266_v1_Directorioareasrecreativasparquefluvialdelpiles.jpg
+</foto>
+<nombre rdfa-property="http://www.geonames.org/ontology#name">
+Parque Fluvial del Piles Área Recreativa La Carbayera
+</nombre>
+<telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+<fax/>
+<correo-electronico/>
+<web/>
+<horario/>
+<descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+<direccion>Camín de Granda a Cabueñes</direccion>
+<localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.509335 -5.654144</localizacion>
+<direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Camín de Granda a Cabueñes</direccion>
+<categorias>
+<categoria id="411" rdfa-property="http://purl.org/dc/terms/subject">Areas Recreativas</categoria>
+<categoria id="415" rdfa-property="http://purl.org/dc/terms/subject">Parques y Jardines</categoria>
+</categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/282-area-recreativa-picu-l-sol" tipo="Areas Recreativas,Miradores,Medio Ambiente">
+<url>
+http://www.gijon.es/directorios/show/282-area-recreativa-picu-l-sol
+</url>
+<identificador>282</identificador>
+<locale>es</locale>
+<send>fecha-actualizacion2014-07-15 09:47:55 +0200</send>
+<foto rdfa-property="http://purl.org/dc/terms/relation">
+http://www.gijon.es/data/images/f6/6343/126x79_v1_DirectorioareasrecreativasPicoSol.jpg
+</foto>
+<nombre rdfa-property="http://www.geonames.org/ontology#name">Área Recreativa Picu'l Sol</nombre>
+<telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+<fax/>
+<correo-electronico/>
+<web/>
+<horario/>
+<descripcion rdfa-property="http://purl.org/dc/terms/description">
+Es un mirador situado en el extremo meridional del concejo, sobre la localidad de Tueya, en la parroquia de Lavandera. Bien conocido por los amantes del parapente, tiene una magnífica panorámica de la costa central asturiana.
+</descripcion>
+<direccion>Picu'l Sol</direccion>
+<localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.470988 -5.658996</localizacion>
+<direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Picu'l Sol</direccion>
+<categorias>
+<categoria id="411" rdfa-property="http://purl.org/dc/terms/subject">Areas Recreativas</categoria>
+<categoria id="413" rdfa-property="http://purl.org/dc/terms/subject">Miradores</categoria>
+<categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+<categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+<categoria id="193" rdfa-property="http://purl.org/dc/terms/subject">Medio Ambiente</categoria>
+</categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/281-area-recreativa-penarrubia" tipo="Areas Recreativas">
+<url>
+http://www.gijon.es/directorios/show/281-area-recreativa-penarrubia
+</url>
+<identificador>281</identificador>
+<locale>es</locale>
+<send>fecha-actualizacion2014-01-22 12:02:26 +0100</send>
+<foto rdfa-property="http://purl.org/dc/terms/relation">
+http://www.gijon.es/data/images/f6/6342/386x244_v1_Directorioareasrecreativaspenarubia.jpg
+</foto>
+<nombre rdfa-property="http://www.geonames.org/ontology#name">Área recreativa Peñarrubia</nombre>
+<telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+<fax/>
+<correo-electronico/>
+<web/>
+<horario/>
+<descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+<direccion>Camino de Peñarrubia</direccion>
+<localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.549938 -5.626274</localizacion>
+<direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Camino de Peñarrubia</direccion>
+<categorias>
+<categoria id="411" rdfa-property="http://purl.org/dc/terms/subject">Areas Recreativas</categoria>
+<categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+<categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+</categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/280-area-recreativa-monteana" tipo="Areas Recreativas">
+<url>
+http://www.gijon.es/directorios/show/280-area-recreativa-monteana
+</url>
+<identificador>280</identificador>
+<locale>es</locale>
+<send>fecha-actualizacion2014-01-22 12:02:26 +0100</send>
+<nombre rdfa-property="http://www.geonames.org/ontology#name">Área Recreativa Monteana</nombre>
+<telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+<fax/>
+<correo-electronico/>
+<web/>
+<horario/>
+<descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+<direccion>Monteana</direccion>
+<localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.523348 -5.785074</localizacion>
+<direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Monteana</direccion>
+<categorias>
+<categoria id="411" rdfa-property="http://purl.org/dc/terms/subject">Areas Recreativas</categoria>
+<categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+<categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+</categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/279-el-pinar-monte-deva" tipo="Areas Recreativas,Parques y Jardines">
+<url>
+http://www.gijon.es/directorios/show/279-el-pinar-monte-deva
+</url>
+<identificador>279</identificador>
+<locale>es</locale>
+<send>fecha-actualizacion2014-01-22 12:02:26 +0100</send>
+<foto rdfa-property="http://purl.org/dc/terms/relation">
+http://www.gijon.es/data/images/f6/6341/126x79_v1_DirectorioareasrecreativasDeva.jpg
+</foto>
+<nombre rdfa-property="http://www.geonames.org/ontology#name">El Pinar - Monte Deva</nombre>
+<telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+<fax/>
+<correo-electronico/>
+<web/>
+<horario/>
+<descripcion rdfa-property="http://purl.org/dc/terms/description">
+Zona de monte desde la que se ofrece una magnífica panorámica del casco urbano de Gijón y costa. Se accede desde la carretera N-632 Gijón-Villaviciosa tomamos a la derecha desde Cabueñes por La Reguera en dirección a Deva y a unos 2 km. de la iglesia, en el Parque Monte Deva, se encuentra el área.
+</descripcion>
+<direccion>Monte Deva</direccion>
+<localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.490354 -5.605216</localizacion>
+<direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Monte Deva</direccion>
+<categorias>
+<categoria id="411" rdfa-property="http://purl.org/dc/terms/subject">Areas Recreativas</categoria>
+<categoria id="415" rdfa-property="http://purl.org/dc/terms/subject">Parques y Jardines</categoria>
+<categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+<categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+</categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/278-area-recreativa-de-jove" tipo="Areas Recreativas">
+<url>
+http://www.gijon.es/directorios/show/278-area-recreativa-de-jove
+</url>
+<identificador>278</identificador>
+<locale>es</locale>
+<send>fecha-actualizacion2014-01-22 12:02:26 +0100</send>
+<nombre rdfa-property="http://www.geonames.org/ontology#name">Área Recreativa de Jove</nombre>
+<telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+<fax/>
+<correo-electronico/>
+<web/>
+<horario/>
+<descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+<direccion>Camín del Monte de la Llana</direccion>
+<localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.549092 -5.7142</localizacion>
+<direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Camín del Monte de la Llana</direccion>
+<categorias>
+<categoria id="411" rdfa-property="http://purl.org/dc/terms/subject">Areas Recreativas</categoria>
+<categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+<categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+</categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/277-area-recreativa-de-granda" tipo="Areas Recreativas">
+<url>
+http://www.gijon.es/directorios/show/277-area-recreativa-de-granda
+</url>
+<identificador>277</identificador>
+<locale>es</locale>
+<send>fecha-actualizacion2014-01-22 12:02:26 +0100</send>
+<nombre rdfa-property="http://www.geonames.org/ontology#name">Área Recreativa de Granda</nombre>
+<telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+<fax/>
+<correo-electronico/>
+<web/>
+<horario/>
+<descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+<direccion>Granda</direccion>
+<localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.500052 -5.660534</localizacion>
+<direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Granda</direccion>
+<categorias>
+<categoria id="411" rdfa-property="http://purl.org/dc/terms/subject">Areas Recreativas</categoria>
+<categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+<categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+</categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/276-area-recreativa-colonia" tipo="Areas Recreativas">
+<url>
+http://www.gijon.es/directorios/show/276-area-recreativa-colonia
+</url>
+<identificador>276</identificador>
+<locale>es</locale>
+<send>fecha-actualizacion2014-01-22 12:02:26 +0100</send>
+<nombre rdfa-property="http://www.geonames.org/ontology#name">Área Recreativa Colonia</nombre>
+<telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+<fax/>
+<correo-electronico/>
+<web/>
+<horario/>
+<descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+<direccion>Ctra. Gijón - Alto Infanzón (por la Providencia)</direccion>
+<localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.545414 -5.634774</localizacion>
+<direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Ctra. Gijón - Alto Infanzón (por la Providencia)</direccion>
+<categorias>
+<categoria id="411" rdfa-property="http://purl.org/dc/terms/subject">Areas Recreativas</categoria>
+<categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+<categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+</categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/275-camino-forestal-monte-deva" tipo="Areas Recreativas">
+<url>
+http://www.gijon.es/directorios/show/275-camino-forestal-monte-deva
+</url>
+<identificador>275</identificador>
+<locale>es</locale>
+<send>fecha-actualizacion2014-01-22 12:02:26 +0100</send>
+<nombre rdfa-property="http://www.geonames.org/ontology#name">Camino Forestal Monte-Deva</nombre>
+<telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+<fax/>
+<correo-electronico/>
+<web/>
+<horario/>
+<descripcion rdfa-property="http://purl.org/dc/terms/description">
+Accesos: Desde la N-632, en el Alto del Infanzón, tras desviarse por la AS-331, y en la Olla internarnos hacia el cruce de Rioseco. Tras llegar al mismo continuamos ascendiendo y la pista nos llevará a la misma. Servicios: Pequeño aparcamiento, mesas, barbacoas, juegos infantiles, papelera, agua potable y unas preciosas vistas sobre la zona oriental del concejo. En toda la zona se está repoblando con especies autóctonas.
+</descripcion>
+<direccion>Monte-Deva</direccion>
+<localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.491693 -5.590968</localizacion>
+<direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Monte-Deva</direccion>
+<categorias>
+<categoria id="411" rdfa-property="http://purl.org/dc/terms/subject">Areas Recreativas</categoria>
+<categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+<categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+</categorias>
+</directorio>
+</directorios>

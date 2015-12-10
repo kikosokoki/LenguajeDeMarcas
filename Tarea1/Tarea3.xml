@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<horariovuelos>
+	<ol>
+		<li>Compañia</li>
+			<ol>
+				<li>Ryaner</li>
+				<li>Viajes Halcon</li>
+				<li>Viajes el Corte Ingles</li>
+				<li>Feddex</li>
+				<li>Hacendado</li>
+			</ol>
+		<li>Número de vuelo</li>
+			<ol>
+				<li>Boeing-742</li>
+				<li>Boeing-723</li>
+				<li>Boeing-789</li>
+				<li>Boeing-761</li>
+				<li>Hacendado-793</li>
+			</ol>
+		<li>Origen</li>
+			<ol>
+				<li>Sevilla-España</li>
+				<li>Malaga-España</li>
+				<li>Valencia-España</li>
+				<li>Barcelona-España</li>
+				<li>Madrid-España</li>
+			</ol>
+		<li>destino</li>
+			<ol>
+				<li>Tokio-Japon</li>
+				<li>Benalmadena-España</li>
+				<li>Paris-Francia</li>
+				<li>Valdecallecas-España</li>
+				<li>Singapur-Thailandia</li>
+			</ol>
+		<li>ruta</li>
+			<ol>
+				<li>A-823.421</li>
+				<li>D-923.456</li>
+				<li>F-232.563</li>
+				<li>V-582.356</li>
+				<li>S-569.556</li>
+			</ol>
+		<li>hora de salida</li>
+			<ol>
+				<li>13:56</li>
+				<li>18:32</li>
+				<li>23:12</li>
+				<li>08:28</li>
+				<li>11:43</li>
+			</ol>
+		<li>llegada</li>
+			<ol>
+				<li>14:23</li>
+				<li>19:17</li>
+				<li>00:29</li>
+				<li>09:11</li>
+				<li>14:46</li>
+			</ol>
+
+	</ol>
+</horariovuelos>
